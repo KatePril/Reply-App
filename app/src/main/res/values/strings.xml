@@ -18,7 +18,6 @@
     <string name="app_name">Reply</string>
     <string name="navigation_drawer">Navigation Drawer</string>
     <string name="navigation_rail">Navigation Rail</string>
-    <string name="navigation_bottom">Navigation Bottom</string>
     <string name="navigation_back">Back</string>
     <string name="details_screen">Details Screen</string>
     <string name="tab_inbox">Inbox</string>
@@ -175,5 +174,8 @@
         link.
     </string>
     <string name="email_11_time">3 hours ago</string>
+    <string name="navigation_bottom">Navigation Bottom</string>
+
+    <string name="n_b">Navigation Bottom</string>
 
 </resources>
